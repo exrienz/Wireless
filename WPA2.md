@@ -1,4 +1,4 @@
-Sure, here's a step-by-step guide on how to perform a wireless penetration test on a WPA2 network:
+Here's a step-by-step guide on how to perform a wireless penetration test on a WPA2 network:
 
 1. **Preparation**: Start by setting up your tools. You'll need a wireless network adapter that supports packet injection, a Kali Linux distribution, and the necessary software such as Aircrack-ng, Reaver, and Wireshark.
 
