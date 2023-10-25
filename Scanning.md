@@ -1,4 +1,4 @@
-Sure, here's a step-by-step guide on how to perform a wireless scan in Kali Linux:
+here's a step-by-step guide on how to perform a wireless scan in Kali Linux:
 
 1. **Open a Terminal**: You can do this by clicking on the Terminal icon in the taskbar or by using the keyboard shortcut `Ctrl+Alt+T`.
 
